@@ -94,7 +94,8 @@ For AC mains-powered lights, use a properly rated relay module and insulated ele
 Creator
 
 Technical BD
-YouTube: https://www.youtube.com/@TechnicalBD
+YouTube:https://youtube.com/@technicalbdvrj?si=dWCdxQavmbprNWBA
+Project Video:https://youtu.be/iRx-G59B7ig
 
 If you find this project useful, consider giving this repository a ⭐ Star.
 
